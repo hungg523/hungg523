@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **C#, .NET Core, SQL Server**
+- 🔭 I’m currently working on **C#, .NET Core, Angular, SQL Server**
 
 - ☁️ I've keen interest in **Sleep**
 <!--Intro end-->
@@ -42,7 +42,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,net,docker,figma,github,mongodb,postman,py,vscode,visualstudio&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cs,net,angular,nextjs,docker,figma,github,mongodb,mysql,postman,py,vscode,visualstudio,linux&perline=14" />
   </a>
 </p>
 
